@@ -1,2 +1,2 @@
 # desafio-backend-btg-pactual
-Deafio Backend BTG Pactual
+Desafio Backend BTG Pactual
